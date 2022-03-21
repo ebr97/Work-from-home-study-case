@@ -1,5 +1,4 @@
 # Work-from-home-study-case
-# Work-from-home-study-case
 
 ## Overview
 
